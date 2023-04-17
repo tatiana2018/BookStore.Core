@@ -1,0 +1,12 @@
+C:\Users\infraestructura\Documents\Tatiana\Personal\Desarrollo\BooksStore.Core\obj\Debug\net6.0\BooksStore.Core.csproj.AssemblyReference.cache
+C:\Users\infraestructura\Documents\Tatiana\Personal\Desarrollo\BooksStore.Core\obj\Debug\net6.0\BooksStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infraestructura\Documents\Tatiana\Personal\Desarrollo\BooksStore.Core\obj\Debug\net6.0\BooksStore.Core.AssemblyInfoInputs.cache
+C:\Users\infraestructura\Documents\Tatiana\Personal\Desarrollo\BooksStore.Core\obj\Debug\net6.0\BooksStore.Core.AssemblyInfo.cs
+C:\Users\infraestructura\Documents\Tatiana\Personal\Desarrollo\BooksStore.Core\obj\Debug\net6.0\BooksStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\infraestructura\Documents\Tatiana\Personal\Desarrollo\BooksStore.Core\bin\Debug\net6.0\BooksStore.Core.deps.json
+C:\Users\infraestructura\Documents\Tatiana\Personal\Desarrollo\BooksStore.Core\bin\Debug\net6.0\BooksStore.Core.dll
+C:\Users\infraestructura\Documents\Tatiana\Personal\Desarrollo\BooksStore.Core\bin\Debug\net6.0\BooksStore.Core.pdb
+C:\Users\infraestructura\Documents\Tatiana\Personal\Desarrollo\BooksStore.Core\obj\Debug\net6.0\BooksStore.Core.dll
+C:\Users\infraestructura\Documents\Tatiana\Personal\Desarrollo\BooksStore.Core\obj\Debug\net6.0\refint\BooksStore.Core.dll
+C:\Users\infraestructura\Documents\Tatiana\Personal\Desarrollo\BooksStore.Core\obj\Debug\net6.0\BooksStore.Core.pdb
+C:\Users\infraestructura\Documents\Tatiana\Personal\Desarrollo\BooksStore.Core\obj\Debug\net6.0\ref\BooksStore.Core.dll
